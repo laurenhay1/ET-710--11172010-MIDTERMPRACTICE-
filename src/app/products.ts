@@ -18,19 +18,19 @@ export const products = [
 
 export const r1 = {
   "profile":{
-  "firstName": "Jane",
-  "lastName": "Smith",
+  "firstName": "Lauren",
+  "lastName": "Hayes",
   "isAlive": true,
-  "age": 27,
+  "age": 21,
   "photo": "https://www.w3schools.com/w3images/avatar_hat.jpg",
-  "profession": "Designer",
+  "profession": "Clerical Associate",
   "address": {
     "streetAddress": "21 2nd Street",
     "city": "New York ",
     "state": "NY",
     "postalCode": "10021-3100",
     "country": "USA",
-    "email": "ex@mail.com"
+    "email": "laurenhayes58@gmail.com"
   },
   "phoneNumbers": [
     {
@@ -49,11 +49,11 @@ export const r1 = {
 	},
 	
 		{
-		"language": "Spanish",
+		"language": "Arabic (open to learning)",
 		"level": "50%"
 	},
 		{
-		"language": "German",
+		"language": "German(looking forward to learning)",
 		"level": "25%"
 	}
 	
@@ -61,29 +61,35 @@ export const r1 = {
 
 "skills":[
 	{
-		"skill": "Adobe Photoshop",
+		"skill": "Editor",
 		"level": "95%"
 	},
 	
 		{
 		"skill": "Photography",
-		"level": "80%"
+		"level": "50%"
 	},
 		{
 		"skill": "Illustrator",
-		"level": "85%"
+		"level": "60%"
 	},
 	
 		{
 		"skill": "Media",
 		"level": "50%"
-	}
+	},
+  {
+   "skill": "Microsoft",
+  	"level": "95%"
+  }
+ 
+  
 	],
 
   },
   
   
-  "workExperience": [],
+"workExperience": [],
   "education": []
 }
 
